@@ -20,4 +20,4 @@ gastown = Store.create( name: 'Gastown',
     mens_apparel: true,
     womens_apparel: false)
 
-puts Store.count
+puts "========The number of stores created is: #{Store.count}"

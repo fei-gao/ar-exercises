@@ -10,4 +10,4 @@ puts "----------"
 
 @store1.update(name: 'store1')
 
-puts @store1.name
+puts "======burnaby changed its name to #{@store1.name}"
